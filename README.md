@@ -2,9 +2,9 @@
 
 The QuickSail Stack is a versatile and efficient boilerplate for web application development, designed to help developers set sail quickly on their SAAS project.
 
-### Introduction
+<!-- ### Introduction
 
-Welcome to the QuickSail Stack documentation! This guide is crafted specifically for solo-entrepreneurs seeking to expedite the development and deployment of their SaaS products. With QuickSail Stack, you can focus on building your business logic while leveraging a powerful tech stack to handle the rest.
+Welcome to the QuickSail Stack documentation! This guide is crafted specifically for solo-entrepreneurs seeking to expedite the development and deployment of their SaaS products. With QuickSail Stack, you can focus on building your business logic while leveraging a powerful tech stack to handle the rest. -->
 
 ### Installation
 
