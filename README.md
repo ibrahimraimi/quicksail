@@ -2,37 +2,49 @@
 
 The QuickSail Stack is a versatile and efficient boilerplate for web application development, designed to help developers set sail quickly on their SAAS project.
 
-<!-- ### Introduction
+### Local Setup
 
-Welcome to the QuickSail Stack documentation! This guide is crafted specifically for solo-entrepreneurs seeking to expedite the development and deployment of their SaaS products. With QuickSail Stack, you can focus on building your business logic while leveraging a powerful tech stack to handle the rest. -->
-
-### Installation
-
-- Clone the QuickSail repository from GitHub.
-- Install dependencies using npm, pnpm or yarn.
+Clone the QuickSail repository from GitHub.
 
 ```sh
 git clone https://github.com/ibrahimraimi/quicksail
+```
+#### Install dependencies
 
-cd quicksail-stack
-pnpm install
+> Make sure to give execute permissions to the script
+
+```sh
+chmod +x ./scripts/install_dependencies.sh
+```
+
+> Then you can run the script:
+
+```sh
+./scripts/install_dependencies.sh
 ```
 
 ### Development
 
 Run the development server to start building your application.
 
+> Make sure to give execute permissions to the script
 ```sh
-pnpm dev
+chmod +x ./scripts/start_servers.sh
 ```
 
-### Deployment
+> Start development server
+
+```sh
+./scripts/start_servers.sh
+```
+
+<!-- ### Deployment
 
 Dockerize your application for deployment to production environments.
 
 ```sh
 docker-compose up --build
-```
+``` -->
 
 ### License
 
