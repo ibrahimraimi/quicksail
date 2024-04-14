@@ -3,7 +3,7 @@
 # Function to install dependencies for SvelteKit
 install_svelte_dependencies() {
     echo "Installing dependencies for SvelteKit..."
-    cd app/frontend
+    cd app/views
     npm install
 }
 

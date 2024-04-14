@@ -3,7 +3,7 @@
 # Function to start Svelte development server
 start_svelte() {
     echo "Starting Svelte development server..."
-    cd app/frontend
+    cd app/views
     npm run dev
 }
 

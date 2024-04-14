@@ -169,12 +169,12 @@ cython_debug/
 #.idea/
 
 ### Svelte ###
-# gitignore template for the SvelteKit, frontend web component framework
+# gitignore template for the SvelteKit, views web component framework
 # website: https://kit.svelte.dev/
 
-./app/frontend/.svelte-kit/
-./app/frontend/node_modules
-./app/frontend/pnpm-lock.yaml
+./app/views/.svelte-kit/
+./app/views/node_modules
+./app/views/pnpm-lock.yaml
 package
 
 # End of https://www.toptal.com/developers/gitignore/api/svelte,django
